@@ -6,4 +6,6 @@ class Car{
    public function displayColor(){
     echo $this->color;
    }}
+   $myBugatti = new Car();
+
    ?>
