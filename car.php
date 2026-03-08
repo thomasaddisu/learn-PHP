@@ -7,5 +7,5 @@ class Car{
     echo $this->color;
    }}
    $myBugatti = new Car();
-
+   $myBugatti->displayColor();  
    ?>
